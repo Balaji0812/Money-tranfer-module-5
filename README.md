@@ -1,5 +1,8 @@
 website link for money transfer:https://paymentwalletapplicatipn.netlify.app/login.html
 
+![image](https://github.com/Balaji0812/Money-tranfer-module-5/assets/127092099/e7d8a6ec-f7db-4eda-ba40-e6dcec00c7f8)
+
+
 
 Welcome to the Money Transfer Web Application!
 
@@ -16,5 +19,3 @@ Transfer money: After adding their bank account information, users can transfer 
 View transaction history: Users can view their transaction history to see all the transfers they've made and the status of each transfer.
 
 The Money Transfer Web Application is built with security in mind, using encryption technologies to protect user data and prevent unauthorized access. The application is regularly updated to ensure the latest security patches are in place.
-
-Thank you for using the Money Transfer Web Application. If you have any questions or feedback, please don't hesitate to contact our customer support team
